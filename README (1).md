@@ -102,13 +102,3 @@ going by CVSS score alone, changed which finding I'd actually escalate first.
 
 ---
 
-### LinkedIn post draft
-
-> Ran a full vulnerability assessment with Nessus Essentials on a lab environment: credentialed
-> and uncredentialed scans (13 → 90 findings once authenticated), then the part that actually
-> matters — separating CVSS severity from real-world risk (exposure + known exploitation) to
-> build a prioritized, ownable fix list instead of just forwarding a scanner PDF.
->
-> Full write-up on GitHub: [link]
->
-> #cybersecurity #vulnerabilitymanagement #Nessus #blueteam
